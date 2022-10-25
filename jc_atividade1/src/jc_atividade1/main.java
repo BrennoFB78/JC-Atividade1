@@ -7,5 +7,6 @@ public class main {
 		
 		String nome;
 		int idade;
+		int CPF;
 	}
 }
